@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hello! 👋 I'm Anshika Asati
 
-<!--
-**anshikaasati/anshikaasati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Full-Stack Developer | AI Builder
 
-Here are some ideas to get you started:
+Software Engineer with 1+ years of experience developing full-stack applications, backend services, and AI-powered products.
+Passionate about building scalable systems, developer tools, and user-centric applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+<table>
+<tr>
+<td width="50%">
+
+## 🚀 About Me
+
+* 💼 FUll Stack Developer
+* 🌱 Currently Upskilling in Multiple Tech Stack.
+* 🤖 Building AI-powered products and developer tools
+* 🔍 Open to Software Engineering Opportunities
+
+</td>
+
+<td width="50%">
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,express,mongodb,mysql,firebase,aws,git,github,linux,postman,vscode" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 CodeFlow
+
+AI-powered code visualization platform with real-time execution tracking and intelligent explanations.
+
+### 👗 Vastra Vows
+
+Full-stack rental marketplace with authentication, payments, geolocation search, and media management.
+
+### 📈 Deribit Trading System
+
+Low-latency C++ trading platform for real-time market data processing and portfolio analytics.
+
+---
+
+## 🏆 Achievements
+
+* 🌟 Top Performer — GoQuant Bootcamp
+* 🏅 Google Girls Hackathon Finalist (Top 100 / 26K+)
+* 🚀 AIR 1568 — Young Turks'25
+* 🏆 Winner — CodeHunt Coding Competition
+* 💎 Coding Ninjas Level 7 Expert
+
+---
+
+## 📬 Connect With Me
+
+* 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anshika-asati-8ba882245/)
+* 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://anshika-asati.netlify.app/)
+* 📧 [asatianshikawork@gmail.com](mailto:asatianshikawork@gmail.com)
+
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&style=for-the-badge"/>
