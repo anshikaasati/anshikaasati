@@ -5,10 +5,7 @@
 Software Engineer with 1+ years of experience developing full-stack applications, backend services, and AI-powered products.
 Passionate about building scalable systems, developer tools, and user-centric applications that solve real-world problems.
 
-
-
 ---
-
 
 
 ## 🚀 About Me
@@ -17,10 +14,6 @@ Passionate about building scalable systems, developer tools, and user-centric ap
 * 🌱 Currently Upskilling in Multiple Tech Stack.
 * 🤖 Building AI-powered products and developer tools
 * 🔍 Open to Software Engineering Opportunities
-
-
-
-
 
 ---
 
@@ -35,15 +28,12 @@ Passionate about building scalable systems, developer tools, and user-centric ap
 ## 🌟 Featured Projects
 
 ### 🚀 CodeFlow
-
 AI-powered code visualization platform with real-time execution tracking and intelligent explanations.
 
 ### 👗 Vastra Vows
-
 Full-stack rental marketplace with authentication, payments, geolocation search, and media management.
 
 ### 📈 Deribit Trading System
-
 Low-latency C++ trading platform for real-time market data processing and portfolio analytics.
 
 ---
@@ -60,8 +50,8 @@ Low-latency C++ trading platform for real-time market data processing and portfo
 
 ## 📬 Connect With Me
 
-* 💼 LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/anshika-asati-8ba882245/)
-* 🌐 Portfolio: [YOUR_PORTFOLIO_URL](https://anshika-asati.netlify.app/)
+* 💼 [LinkedIn(https://www.linkedin.com/in/anshika-asati-8ba882245/)
+* 🌐 [Portfolio](https://anshika-asati.netlify.app/)
 * 📧 [asatianshikawork@gmail.com](mailto:asatianshikawork@gmail.com)
 
 </br>
