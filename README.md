@@ -9,9 +9,7 @@ Passionate about building scalable systems, developer tools, and user-centric ap
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+
 
 ## 🚀 About Me
 
@@ -20,9 +18,7 @@ Passionate about building scalable systems, developer tools, and user-centric ap
 * 🤖 Building AI-powered products and developer tools
 * 🔍 Open to Software Engineering Opportunities
 
-</td>
 
-<td width="50%">
 
 
 
